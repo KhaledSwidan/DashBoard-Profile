@@ -6,20 +6,20 @@ I am gonna showing to you how to code a Simple Dashboard with only CSS3 and HTML
 
 Here we have project screenshot :
 
-→ Main Dashboard page.
+## Main Dashboard page.
 ![screenshot](1.png)
 ![screenshot](2.png)
-→ Settings.
+## Settings.
 ![screenshot](3.png)
-→ Profile.
+## Profile.
 ![screenshot](4.png)
-→ Projects.
+## Projects.
 ![screenshot](5.png)
-→ Courses.
+## Courses.
 ![screenshot](6.png)
-→ Friends.
+## Friends.
 ![screenshot](7.png)
-→ Files.
+## Files.
 ![screenshot](8.png)
-→ Plans.
+## Plans.
 ![screenshot](9.png)
